@@ -4,10 +4,13 @@
 Created on Wed Aug  8 15:22:11 2018
 
 @author: Das
+
+https://en.wikipedia.org/wiki/Karatsuba_algorithm
+
 """
 
 def karatsuba(n1, n2):
-    print(n1, n2)
+    #Base case for exit
     if len(str(n1))==1 and len(str(n2)) == 1:
         return n1 * n2
     else:
