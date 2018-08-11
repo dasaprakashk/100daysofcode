@@ -8,3 +8,5 @@ Day 3: Karatsuba Algorithm
 Day 4: Array Inversions with Merge Sorting
 
 Day 5: QuickSort with final element as pivot
+
+Day 6: QuickSort with first element as pivot
