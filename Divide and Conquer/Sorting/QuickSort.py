@@ -32,3 +32,5 @@ iput = input()
 a = iput.split()
 a = list(map(int, a))
 a = Quicksort(a, 0, len(a)-1)
+
+print(list(range(0, 6)))
